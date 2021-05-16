@@ -1,3 +1,4 @@
 <?php
-print `ifconfig`; 
+print `date`;
+print "hello";
 ?>
