@@ -1,4 +1,4 @@
 <?php
 print `date`;
-print "hello";
+print 'date';
 ?>
